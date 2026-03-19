@@ -45,3 +45,49 @@ livs:
       - "Quantificacao de incerteza em aprendizado de maquina"
       - "Modelagem multiescala em quimica"
       - "Exploracao do espaco quimico"
+
+
+  name: "Manuel Szewc"
+  image: "/assets/images/szewc.jpg"
+  website: "https://www.linkedin.com/in/manuel-szewc-55a2a6177/"
+  email: "mszewc@unsam.edu.ar"
+
+  bio:
+    es: |
+      Soy un físico argentino y actualmente me desempeño como investigador en CONICET, con lugar de trabajo en el 
+      Instituto de Ciencias Físicas (ICIFI), Escuela de Ciencia y Tecnología, Universidad de San Martín. 
+      Soy físico de altas energías, y estudio la fenomenología de las partículas fundamentales utilizando herramientas 
+      de estadística, incluyendo el desarrollo de técnicas de aprendizaje automático. 
+      Hice la licenciatura en Ciencias Físicas en la Universidad de Buenos Aires y mi doctorado en la UNSAM. 
+      Realice dos estancias postdoctorales, en el Instituto Jozef Stefan, Eslovenia y en la Universidad de Cincinnati, Estados Unidos.     
+    en: |
+      I am an Argentine physicist who currently works as a researcher at CONICET, based at the 
+      Institute of Physical Sciences (ICIFI), School of Science and Technology, University of San Martín. 
+      I am a high-energy physicist, and I study the phenomenology of fundamental particles using statistical tools, including the development of machine learning techniques. 
+      I did my undergraduate studies in Physical Sciences at the University of Buenos Aires and my PhD at UNSAM. 
+      I have also worked at the Jozef Stefan Institute, Slovenia and at the University of Cincinnati, United States.
+    pt: |
+      Sou um fisico argentino e atualmente trabalho como pesquisador no CONICET, com sede no 
+      Instituto de Ciencias Físicas (ICIFI), Escola de Ciencia e Tecnologia, Universidade de San Martín. 
+      Sou um fisico de altas energias, e estudo a fenomenologia das particulas fundamentais usando ferramentas 
+      de estatistica, incluindo o desenvolvimento de tecnicas de aprendizado de maquina. 
+      Fiz minha licenciatura em Ciencias Fisicas na Universidade de Buenos Aires e meu doutorado na UNSAM. 
+      Realizei duas estancias posdoutorais, no Instituto Jozef Stefan, Eslovenia e na Universidade de Cincinnati, Estados Unidos.
+
+
+  interests:
+    es:
+      - "Inferencia estadistica en fisica de altas energias"
+      - "Mejora de simuladores a partir de mediciones y herramientas de aprendizaje automatico"
+      - "Soluciones a problemas inversos con reglas fisicas"
+      - "Cuantificacion de la incertidumbre en aprendizaje automatico"
+    en:
+      - "Statistical inference in high-energy physics"
+      - "Improvement of simulators from measurements and machine learning tools"
+      - "Solutions to inverse problems with physical rules"
+      - "Uncertainty quantification in machine learning"
+    pt:
+      - "Inferencia estatistica na fisica de altas energias"
+      - "Melhoria de simuladores a partir de medidas e ferramentas de aprendizado de maquina"
+      - "Solucoes para problemas inversos com regras fisicas"
+      - "Quantificacao de incerteza em aprendizado de maquina" 
