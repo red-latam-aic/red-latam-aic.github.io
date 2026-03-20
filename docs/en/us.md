@@ -10,6 +10,6 @@ permalink: /en/us/
 
 ## Current members
 
-- Manuel Szewc
+- Manuel Szewc({{'/en/profiles/ms/'| relative_url }})
 - Juan Carlos San Vicente
 - [Luis Itza Vazquez-Salazar]({{'/en/profiles/livs/'| relative_url }})
