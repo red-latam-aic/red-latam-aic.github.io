@@ -49,7 +49,8 @@ livs:
 ms:
   name: "Manuel Szewc"
   image: "/assets/images/ms.jpg"
-  website: "https://www.linkedin.com/in/manuel-szewc-55a2a6177/"
+  linkedin: "https://www.linkedin.com/in/manuel-szewc-55a2a6177/"
+  website: "https://github.com/ManuelSzewc"
   email: "mszewc@unsam.edu.ar"
 
   bio:
