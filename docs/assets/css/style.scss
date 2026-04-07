@@ -13,8 +13,8 @@
 .langbtn { text-decoration: none; padding: 8px 12px; border: 1px solid #ddd; border-radius: 10px; }
 
 body {
-  background: url('/assets/images/americas_nn_mesh.png') no-repeat center center fixed;
-  background-size: cover;
+  background: url('../images/americas_nn_mesh.png') no-repeat center center fixed  !important;
+  background-size: cover !important;
 }
 
 .container {
