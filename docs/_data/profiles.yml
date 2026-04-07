@@ -8,11 +8,11 @@ livs:
   bio:
     es: |
       Soy originario de Ciudad de Mexico. Estudie la licenciatura en quimica en la Facultad de Quimica de la Universidad Nacional Autonoma de Mexico.
-       Posteriormente continue con mis estudios de maestria en quimica teorica y modelado computacional en la Universidad de Groningen 
-       en los Paises Bajos gracias a una beca ERASMUS+ por parte de la Union Europea. Al termino de este periodo continue con mis estudios de
-       doctorado en fisicoquimica en la Universidad de Basel en Suiza. Posteriormente recibi una beca de la Swiss National Science Foundation 
-       para realizar una estancia postdoctoral en el Instituto de Fisica Teorica de la Universidad de Heidelberg, Alemania. En el otono de 2026,
-       espero iniciar mi grupo de investigacion como profesor asistente.
+      Posteriormente continue con mis estudios de maestria en quimica teorica y modelado computacional en la Universidad de Groningen 
+      en los Paises Bajos gracias a una beca ERASMUS+ por parte de la Union Europea. Al termino de este periodo continue con mis estudios de
+      doctorado en fisicoquimica en la Universidad de Basel en Suiza. Posteriormente recibi una beca de la Swiss National Science Foundation 
+      para realizar una estancia postdoctoral en el Instituto de Fisica Teorica de la Universidad de Heidelberg, Alemania. En el otono de 2026,
+      espero iniciar mi grupo de investigacion como profesor asistente.
     en: |
       I am originally from Mexico City. I studied chemistry at the Faculty of Chemistry at the National Autonomous University of Mexico. 
       Later I completed a master's degree in theoretical chemistry and computational modeling at the University of Groningen in the Netherlands 
@@ -45,7 +45,6 @@ livs:
       - "Quantificacao de incerteza em aprendizado de maquina"
       - "Modelagem multiescala em quimica"
       - "Exploracao do espaco quimico"
-
 ms:
   name: "Manuel Szewc"
   image: "/assets/images/ms.jpg"
@@ -92,3 +91,44 @@ ms:
       - "Melhoria de simuladores a partir de medidas e ferramentas de aprendizado de maquina"
       - "Solucoes para problemas inversos com regras fisicas"
       - "Quantificacao de incerteza em aprendizado de maquina" 
+jcsv:
+  name: "Juan Carlos San Vicente Veliz"
+  image: "assets/images/jcsv.jpeg"
+  linkedin: "https://www.linkedin.com/in/jcsanvicente"
+  email: "j.sanvicente@temple.edu"
+  
+  bio:
+    es: |
+      Soy un físico venezolano/canadiense y me desempeño actualmente como investigador posdoctorante en la Universidad de Temple en Filadelfia, EE. UU. 
+      Soy físico/químico con interés en modelaje científico con aplicaciones a la cinética de superficie, dinámica molecular, modelaje multiescala 
+      y fenómenos fotoquímicos, desarrollando herramientas y técnicas que involucran el aprendizaje automático. Hice la licenciatura en Ciencias Físicas 
+      en la Universidad Simón Bolívar, la maestría en el Instituto Venezolano de Investigaciones Científicas (IVIC) y el doctorado en la Universidad 
+      de Basilea, Suiza.
+    en: |
+       I am a Venezuelan/Canadian physicist currently working as a postdoctoral researcher at Temple University in Philadelphia, USA. I am a physicist/chemist 
+       with an interest in scientific modeling with applications in surface kinetics, molecular dynamics, multiscale modeling, and photochemical phenomena, 
+       developing tools and techniques involving machine learning. I have a Bachelor's degree in Physics from the Simón Bolívar University in Venezuela,
+       a Master's degree from the Venezuelan Institute for Scientific Research (IVIC), and a PhD from the University of Basel, Switzerland.
+    pt: |
+      Sou um físico venezuelano/canadense e atualmente trabalho como pesquisador de pós-doutorado na Universidade Temple, na Filadélfia, EUA. Sou físico/químico 
+      com interesse em modelagem científica com aplicações em cinética de superfície, dinâmica molecular, modelagem multiescala e fenômenos fotoquímicos, 
+      desenvolvendo ferramentas e técnicas que envolvem o aprendizado de máquina. Concluí minha graduação em Ciências Físicas na Universidade Simón Bolívar,
+      o mestrado no Instituto Venezuelano de Pesquisas Científicas (IVIC) e o doutorado na Universidade de Basileia, Suíça.
+  
+  interests:
+    es:
+      - Cinética de Superficie
+      - Dinámica Molecular
+      - Modelaje Multiescala
+      - Procesos Fotoquímicos
+    en:
+      - Surface Kinetics
+      - Molecular Dynamics
+      - Multiscale Modeling
+      - Photochemical Processes
+    pt:
+      - Cinética de Superfície
+      - Dinâmica Molecular
+      - Modelagem Multiescala
+      - Processos Fotoquímicos
+

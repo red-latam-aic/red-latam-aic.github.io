@@ -1,7 +1,7 @@
 {% assign lang = page.lang | default: 'en' %}
 {% assign items = site.data.nav[lang] %}
 
-<nav class="topnav">
+<nav class="topnav" data-lang="{{ lang }}">
   <div class="tabs">
     {% for item in items %}
       {% assign is_active = page.url == item.url %}
@@ -39,4 +39,17 @@
       {% endif %}
     </div>
   {% endif %}
+  {% if lang == "es" %}
+<script>
+(function() {
+  var palettes = [
+    "linear-gradient(to right, #74acdf, #ffffff, #74acdf)",       /* Argentina */
+    "linear-gradient(to right, #006847, #ffffff, #ce1126)",       /* México */
+    "linear-gradient(to right, #fcdd09, #00247d, #cf142b)"        /* Venezuela */
+  ];
+  var nav = document.querySelector('.topnav[data-lang="es"]');
+  if (nav) nav.style.background = palettes[Math.floor(Math.random() * palettes.length)];
+})();
+</script>
+{% endif %}
 </nav>

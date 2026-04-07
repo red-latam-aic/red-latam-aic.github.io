@@ -6,6 +6,10 @@ es:
     url: /es/about/
   - name: Contacto
     url: /es/contact/
+  - name: Recursos
+    url: /es/resources/
+  - name: Blog
+    url: /es/blog/
 
 en:
   - name: Home
@@ -14,6 +18,10 @@ en:
     url: /en/about/
   - name: Contact
     url: /en/contact/
+  - name: Resources
+    url: /en/resources/
+  - name: Blog
+    url: /en/blog/
     
 pt:
   - name: Início
@@ -22,3 +30,7 @@ pt:
     url: /pt/about/
   - name: Contato
     url: /pt/contact/
+  - name: Recursos
+    url: /pt/resources/
+  - name: Blog
+    url: /pt/blog/

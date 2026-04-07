@@ -10,6 +10,6 @@ permalink: /pt/us/
 
 ## Membros Atuais
 
-- Juan Carlos San Vicente
-- [Luis Itza Vazquez-Salazar]({{'/pt/profiles/livs/'| relative_url }})
+- [Juan Carlos San Vicente]({{'/pt/profiles/jcsv/'| relative_url }})
 - [Manuel Szewc]({{'/pt/profiles/ms/'| relative_url }})
+- [Luis Itza Vazquez-Salazar]({{'/pt/profiles/livs/'| relative_url }})

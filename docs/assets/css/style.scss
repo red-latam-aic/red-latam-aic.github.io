@@ -11,3 +11,46 @@
 .tab { text-decoration: none; padding: 8px 12px; border: 1px solid #ddd; border-radius: 10px; color: #111; }
 .tab.active { font-weight: 700; }
 .langbtn { text-decoration: none; padding: 8px 12px; border: 1px solid #ddd; border-radius: 10px; }
+
+body {
+  background: url('/assets/images/americas_nn_mesh.png') no-repeat center center fixed;
+  background-size: cover;
+}
+
+.container {
+  background: rgba(255, 255, 255, 0.85);
+  border-radius: 8px;
+}
+
+/* Language-based nav gradients */
+.topnav[data-lang="pt"] {
+  background: linear-gradient(to right, #009c3b, #ffdf00);
+}
+
+.topnav[data-lang="en"] {
+  background: linear-gradient(to right, #bf0a30, #002868);
+}
+
+.topnav[data-lang="pt"] .tab,
+.topnav[data-lang="pt"] .langbtn,
+.topnav[data-lang="en"] .tab,
+.topnav[data-lang="en"] .langbtn {
+  color: #fff;
+  border-color: rgba(255,255,255,0.4);
+}
+
+.topnav[data-lang="pt"] .tab.active,
+.topnav[data-lang="en"] .tab.active {
+  background: rgba(255,255,255,0.2);
+}
+
+/* Spanish palettes applied via JS */
+.topnav[data-lang="es"] .tab,
+.topnav[data-lang="es"] .langbtn {
+  color: #fff;
+  border-color: rgba(255,255,255,0.4);
+}
+
+.topnav[data-lang="es"] .tab.active {
+  background: rgba(255,255,255,0.2);
+}
